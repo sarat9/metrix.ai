@@ -1,6 +1,7 @@
 # MetriX.ai
 
 MetriX is an MVP app where business users can easily create and tracks metrics and analyze their performance over time.
+- Works for any Database. Just change env properties to connect to your own DB. Currently tested for Postgres DB.
 
 Example:
 - Create a Metric "Pending Orders"
