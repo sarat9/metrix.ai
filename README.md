@@ -1,4 +1,4 @@
-# Metrix.ai
+# MetriX.ai
 
 MetriX is an MVP app where business users can easily create and tracks metrics and analyze their performance over time.
 
@@ -15,6 +15,19 @@ Example:
 Chat box where people can just type in what they want, and a metrix is automatically created.
 Example: User enters "i want to track pending payments" and AI will automatically create a metric with appropriate condition, collect metric data and show it in the dashboard as charts.
 
+NOTE:
+A Weekend Fun Porject
+
+##
+##
+
+#### Demo
+<img width="1724" alt="image" src="https://github.com/user-attachments/assets/7edcfb13-6ed9-4f8a-a6eb-8c91fd99b813">
+
+<img width="1679" alt="image" src="https://github.com/user-attachments/assets/767a471f-144c-4269-a2e3-7069c23012b6">
+
+##
+##
 
 ### Tables
 
@@ -35,6 +48,9 @@ This Table contains of all data collected over time on frequency for each metric
 - Charts
 Shows Visualization of metric data collected over time
 
+##
+##
+
 #### Yet to Add Features
 
 Priority:
@@ -50,3 +66,18 @@ Later On
 - Scores
 - metric_task
 - Apply formulas on metrics
+
+
+
+
+
+
+##
+##
+
+
+[![GitHub followers](https://img.shields.io/github/followers/sarat9.svg?label=Follow%20@sarat9&style=social)](https://github.com/sarat9/)
+
+
+##
+##
